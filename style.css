@@ -8,5 +8,26 @@
 #search {
 	position: fixed;
 	top: 500px;
-	width: 200px;
+	left: 380px;
+	min-width: 100px;
+}
+
+#header ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#header ul li {
+	float: right;
+}
+
+#header a {
+	display: block;
+	width: 60px;
+	text-decoration: none;
+}
+
+#footer {
+
 }
